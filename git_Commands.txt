@@ -1,0 +1,41 @@
+Here are some essential git commands that you should know.
+
+git --version: 
+
+This command is helpful to check the current version of the git you are using.
+
+git status:
+
+This command is used to check the current status of git.
+
+git. add: 
+
+This command is helpful for adding any file, folder, or image to your git.
+
+git init:
+
+This command is used to initialize a git repository to that folder.
+
+git commit -m "Your message": 
+
+This command is used to commit the file from the folder that has been connected to the git repository. In this, -m refers to a message for the commit so that others can understand the committed changes.
+
+git log:
+
+This command is used to see what changes have been done on which file and by whom with a unique key that is always shared on the top of the line.
+
+git config --global user.name "user name":
+
+This command is used to change the user name for the git repositories of all the folders in the system. If you don't want to change all folder repositories then remove --global and run it. 
+
+git config --global user.email "user email":
+
+This command is used to change the user email for the git repositories of all the folders in the system. If you don't want to change all folder repositories then remove --global and run it. 
+
+git remote add origin git@github.com.GTAMohit/git-tuts.git: 
+
+This command is used to specify the origin server, site, host web, etc. to add a remote command to the current folder. 
+
+git push -u origin master:
+
+This command is used to push the folder to a git repository.
