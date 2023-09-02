@@ -1,1 +1,1 @@
-This is a public folder.
+This is a public folder of version 2.
